@@ -1,12 +1,12 @@
 # Gustavo Alvarado
 
-*Mechatronics Engineer based in Guayaquil 🇪🇨* </br>
+*Mechatronics Engineer based in Guayaquil 🇪🇨* <br>
 
 [Email](mailto:goutta.08@outlook.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/igoutta/) / [GitHub](https://github.com/igoutta/)
 
 ## ✈️ Engineering Experience
 
-**Mechatronics Lab Assistant** @ [ROBIOTEC](https://robiotec.ec/) *(Apr 2023 - Present)* </br>
+**Mechatronics Lab Assistant** @ [ROBIOTEC](https://robiotec.ec/) *(Apr 2023 - Present)* <br>
 Early-stage branch of multinational company focused on drone testing and development.
 
 - Testing of large electric-powered UAV, that involved GNSS overhaul, new connection system to also new radiotransmitter and adaptation of our geolocation software to allows new drones IDs.
@@ -17,9 +17,9 @@ Early-stage branch of multinational company focused on drone testing and develop
 - ***Software Technologies used:*** Python, Javascript, Node-RED, Sqlite, Arduino C, MAVLink, Linux Enviroment, Shell.
 - ***Enginnering Technologies used:*** Ardupilot, Autodesk Inventor, Autodesk CFD.
 - ***Hardware Technologies used:*** Modbus, ESC, drone controllers, underwated propulsion motors, radiotransmitters.
-</br></br>
+<br><br>
 
-**Mechatronics Trainee** @ [ROBIOTEC](https://robiotec.ec/) *(Oct 2022 - Mar 2023)* </br>
+**Mechatronics Trainee** @ [ROBIOTEC](https://robiotec.ec/) *(Oct 2022 - Mar 2023)* <br>
 Early-stage branch of multinational company focused on drone testing and development.
 
 - Early development of Geolocation software under Node-RED. With the Iridium SBD system redirected to an webhook, the software obtains the data string that after processing is displayed as the drone position on a map, the height in a chart, and speed and battery charge in widgets.
@@ -31,15 +31,15 @@ Early-stage branch of multinational company focused on drone testing and develop
 - Frontend development of an area selector on image with a color selector. The app, developed in PyQt5, connects my visual color selector with the color recognition software and shows the image output.
 - ***Software Technologies used:*** Python, Qt5, Javascript, CSS, Node-RED, Sqlite, Arduino C, Ardupilot.
 - ***Hardware Technologies used:*** DC three-phase brushless motors, ESC, Arduino.
-</br></br>
+<br><br>
 
 ## 💬 Languages
 
-🇪🇨 **Spanish**: Native </br>
+🇪🇨 **Spanish**: Native <br>
 🇺🇸 **English**: C1
-</br></br>
+<br><br>
 
 ## 🏫 Education
 
-**Engineering Degree** on Mechatronics</br>
-[ESPOL](https://www.espol.edu.ec/es/) - Guayaquil, Ecuador *(Apr 2017 - Sep 2023)* </br>
+**Engineering Degree** on Mechatronics<br>
+[ESPOL](https://www.espol.edu.ec/es/) - Guayaquil, Ecuador *(Apr 2017 - Sep 2023)* <br>
