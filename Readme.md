@@ -2,7 +2,7 @@
 
 *Mechatronics Engineer based in Guayaquil 🇪🇨* <br>
 
-[Email](mailto:goutta.08@outlook.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/igoutta/) / [GitHub](https://github.com/igoutta/)
+[Email](mailto:goutta.08@outlook.com) / [Website](https://igoutta.github.io/ga-cv/) / [LinkedIn](https://www.linkedin.com/in/igoutta/) / [GitHub](https://github.com/igoutta/)
 
 ## ✈️ Engineering Experience
 
@@ -13,7 +13,7 @@ Early-stage branch of multinational company focused on drone testing and develop
 - Participation in the unsupervised flight mission of a drone, distance record, between two points.
 - Early-stage development of the communication system between MAVLink drone protocol and Robiot system, under Python. It started with PyMAVLink library and later changed to MAVSDK, which benefits from  easier device communication and asynchronization.
 - Collaboration in the development of an Hybrid VTOL airframe, making use of Autodesk CFD simulations in order to improve the laminar airflow between wings.
-- Development and deployment of mill power monitoring HMI system with data storage, under Node-RED. Data was collected from Modbus TCP in Siemens Sentron devices, which were previously tested and configured for a subnet with a mainframe PC running Linux used as a gateway.
+- Development and deployment of mill power monitoring HMI system with data storage, under Node-RED. Data was collected from Modbus TCP in Siemens Sentron devices, which were previously tested and configured for a subnet with a Linux mainframe PC used as a gateway.
 - ***Software Technologies used:*** Python, Javascript, Node-RED, Sqlite, Arduino C, MAVLink, Linux Enviroment, Shell.
 - ***Enginnering Technologies used:*** Ardupilot, Autodesk Inventor, Autodesk CFD.
 - ***Hardware Technologies used:*** Modbus, ESC, drone controllers, underwated propulsion motors, radiotransmitters.
