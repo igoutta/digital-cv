@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="480" height="480" viewBox="0 0 480 480" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.6</desc>
+<defs>
+</defs>
+<g transform="matrix(5.33 0 0 9.61 239.97 240.13)"  >
+<radialGradient id="SVGID_126" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -45 -25)"  cx="45" cy="25" r="45" fx="45" fy="25">
+<stop offset="0%" style="stop-color:rgba(255, 165, 0, 1);"/>
+<stop offset="100%" style="stop-color:rgba(255, 0, 107, 1);"/>
+</radialGradient>
+<rect style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_126); fill-rule: nonzero; opacity: 1;"  x="-45" y="-25" rx="0" ry="0" width="90" height="50" />
+</g>
+<g transform="matrix(2.12 0 0 2.12 246.87 245.51)" style=""  >
+		<text xml:space="preserve" font-family="'Lucida Console', Monaco, monospace" font-size="27" font-style="normal" font-weight="bold" style="stroke: rgb(198,76,76); stroke-opacity: 0; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-opacity: 0.41; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-71.28" y="8.48" style="stroke-width: 1; font-style: normal; ">soon.. .</tspan></text>
+</g>
+</svg>
