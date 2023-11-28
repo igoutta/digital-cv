@@ -3,6 +3,7 @@
 *Mechatronics Engineer based in Guayaquil 🇪🇨* <br>
 
 [Email](mailto:goutta.08@outlook.com) / [Website](https://igoutta.github.io/ga-cv/) / [LinkedIn](https://www.linkedin.com/in/igoutta/) / [GitHub](https://github.com/igoutta/)
+<!-- This content will not appear in the rendered Markdown -->
 
 ## ✈️ Engineering Experience
 
@@ -33,13 +34,58 @@ Early-stage branch of multinational company focused on drone testing and develop
 - ***Hardware Technologies used:*** DC three-phase brushless motors, ESC, Arduino.
 <br><br>
 
+## 🥼 Skill set
+
+- Software
+  - ```Python       🟡🟡🟡🟡🟡```
+  - ```Linux        🟡🟡🟡🟡🔵```
+  - ```Javascript   🟡🟡🟡🟡🔵```
+  - ```MAVLink      🟡🟡🟡🟡🔵```
+  - ```SQL          🟡🟡🟡🔵🔵```
+  - ```C            🟡🟡🟡🔵🔵```
+  - ```CSS3         🟡🟡🟡🔵🔵```
+  - ```HTML5        🟡🟡🔵🔵🔵```
+  - ```Docker       🟡🟡🔵🔵🔵```
+- Mechanic Design
+  - ```Inventor     🟡🟡🟡🟡🟡```
+  - ```Inventor CFD 🟡🟡🟡🔵🔵```
+  - ```Autodesk CAM 🟡🟡🔵🔵🔵```
+  - ```AutoCAD      🟡🟡🔵🔵🔵```
+- Electronics and Control
+  - ```Arduino      🟡🟡🟡🟡🟡```
+  - ```Ardupilot    🟡🟡🟡🟡🔵```
+  - ```Matlab       🟡🟡🟡🔵🔵```
+  - ```Proteus      🟡🟡🟡🔵🔵```
+  - ```MPLAB X      🟡🟡🔵🔵🔵```
+<br><br>
+
+## 🥏 Pursuits
+
+- Swimming 🏊
+- Learning Skills 📑
+- Cooking 🧑‍🍳
+- Mindfulness 🧘
+- Games 🕹️
+- Reading 📖
+<br><br>
+
 ## 💬 Languages
 
 🇪🇨 **Spanish**: Native <br>
-🇺🇸 **English**: C1
+🇺🇸 **English**: B2
 <br><br>
 
 ## 🏫 Education
 
 **Engineering Degree** on Mechatronics<br>
 [ESPOL](https://www.espol.edu.ec/es/) - Guayaquil, Ecuador *(Apr 2017 - Sep 2023)* <br>
+<br><br>
+
+## 🧑‍💻 Referrals
+
+#### Carlos Zúñiga R.
+
+> Jefe de I+D ROBIOTEC | M.Sc. Automatización y Control<br>
+> [LinkedIn](https://www.linkedin.com/in/igoutta/)
+
+<br><br>
