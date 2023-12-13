@@ -37,16 +37,18 @@ Early-stage branch of multinational company focused on drone testing and develop
 ## 🧮 Skills
 
 - Software
-|--------------|-----------:|
-|Python |🟡🟡🟡🟡🟡|
-|Linux  |🟡🟡🟡🟡🔵|
-  - ```Javascript   🟡🟡🟡🟡🔵```
-  - ```MAVLink      🟡🟡🟡🟡🔵```
+  - Javascript   🟡🟡🟡🟡🔵
+  - MAVLink      🟡🟡🟡🟡🔵
   - ```SQL          🟡🟡🟡🔵🔵```
   - ```C            🟡🟡🟡🔵🔵```
   - ```CSS3         🟡🟡🟡🔵🔵```
   - ```HTML5        🟡🟡🔵🔵🔵```
   - ```Docker       🟡🟡🔵🔵🔵```
+
+|Python |🟡🟡🟡🟡🟡|
+|-------|-----------:|
+|Linux  |🟡🟡🟡🟡🔵|
+
 - Mechanic Design
   - ```Inventor     🟡🟡🟡🟡🟡```
   - ```Inventor CFD 🟡🟡🟡🔵🔵```
