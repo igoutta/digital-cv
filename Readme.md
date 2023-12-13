@@ -2,7 +2,7 @@
 
 *Mechatronics Engineer based in Guayaquil 🇪🇨* <br>
 
-[Email](mailto:goutta.08@outlook.com) / [Website](https://igoutta.github.io/ga-cv/) / [LinkedIn](https://www.linkedin.com/in/igoutta/) / [GitHub](https://github.com/igoutta/)
+[Email](mailto:igoutta.08@gmail.com) / [Website](https://igoutta.github.io/ga-cv/) / [LinkedIn](https://www.linkedin.com/in/igoutta/) / [GitHub](https://github.com/igoutta/)
 <!-- This content will not appear in the rendered Markdown -->
 
 ## ✈️ Engineering Experience
@@ -34,11 +34,12 @@ Early-stage branch of multinational company focused on drone testing and develop
 - ***Hardware Technologies used:*** DC three-phase brushless motors, ESC, Arduino.
 <br><br>
 
-## 🥼 Skill set
+## 🧮 Skills
 
 - Software
-  - ```Python       🟡🟡🟡🟡🟡```
-  - ```Linux        🟡🟡🟡🟡🔵```
+|--------------|-----------:|
+|Python |🟡🟡🟡🟡🟡|
+|Linux  |🟡🟡🟡🟡🔵|
   - ```Javascript   🟡🟡🟡🟡🔵```
   - ```MAVLink      🟡🟡🟡🟡🔵```
   - ```SQL          🟡🟡🟡🔵🔵```
@@ -85,7 +86,7 @@ Early-stage branch of multinational company focused on drone testing and develop
 
 #### Carlos Zúñiga R.
 
-> Jefe de I+D ROBIOTEC | M.Sc. Automatización y Control<br>
-> [LinkedIn](https://www.linkedin.com/in/igoutta/)
+> I+D Head @ [ROBIOTEC](https://robiotec.ec/) | M.Sc. Automatización y Control<br>
+> [LinkedIn](https://www.linkedin.com/in/carlosazr/)
 
 <br><br>
