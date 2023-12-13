@@ -36,30 +36,32 @@ Early-stage branch of multinational company focused on drone testing and develop
 
 ## 🧮 Skills
 
-- Software
-  - Javascript   🟡🟡🟡🟡🔵
-  - MAVLink      🟡🟡🟡🟡🔵
-  - ```SQL          🟡🟡🟡🔵🔵```
-  - ```C            🟡🟡🟡🔵🔵```
-  - ```CSS3         🟡🟡🟡🔵🔵```
-  - ```HTML5        🟡🟡🔵🔵🔵```
-  - ```Docker       🟡🟡🔵🔵🔵```
+|Software    |------------|
+|------------|-----------:|
+|Python      |🟡🟡🟡🟡🟡|
+|Linux       |🟡🟡🟡🟡🔵|
+|Javascript  |🟡🟡🟡🟡🔵|
+|MAVLink     |🟡🟡🟡🟡🔵|
+|SQL         |🟡🟡🟡🔵🔵|
+|C           |🟡🟡🟡🔵🔵|
+|CSS3        |🟡🟡🟡🔵🔵|
+|HTML5       |🟡🟡🔵🔵🔵|
+|Docker      |🟡🟡🔵🔵🔵|
 
-|Python |🟡🟡🟡🟡🟡|
-|-------|-----------:|
-|Linux  |🟡🟡🟡🟡🔵|
+|Mechanic Design|------------|
+|---------------|-----------:|
+|Inventor       |🟡🟡🟡🟡🟡|
+|Inventor CFD   |🟡🟡🟡🔵🔵|
+|Autodesk CAM   |🟡🟡🔵🔵🔵|
+|AutoCAD        |🟡🟡🔵🔵🔵|
 
-- Mechanic Design
-  - ```Inventor     🟡🟡🟡🟡🟡```
-  - ```Inventor CFD 🟡🟡🟡🔵🔵```
-  - ```Autodesk CAM 🟡🟡🔵🔵🔵```
-  - ```AutoCAD      🟡🟡🔵🔵🔵```
-- Electronics and Control
-  - ```Arduino      🟡🟡🟡🟡🟡```
-  - ```Ardupilot    🟡🟡🟡🟡🔵```
-  - ```Matlab       🟡🟡🟡🔵🔵```
-  - ```Proteus      🟡🟡🟡🔵🔵```
-  - ```MPLAB X      🟡🟡🔵🔵🔵```
+|Electronics and Control|---|
+|---------------|----------:|
+|Arduino       |🟡🟡🟡🟡🟡|
+|Ardupilot     |🟡🟡🟡🟡🔵|
+|Matlab        |🟡🟡🟡🔵🔵|
+|Proteus       |🟡🟡🟡🔵🔵|
+|MPLAB X       |🟡🟡🔵🔵🔵|
 <br><br>
 
 ## 🥏 Pursuits
