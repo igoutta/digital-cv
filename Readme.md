@@ -36,7 +36,7 @@ Early-stage branch of multinational company focused on drone testing and develop
 
 ## 🧮 Skills
 
-|Software    |------------|
+|Software    |            |
 |------------|-----------:|
 |Python      |🟡🟡🟡🟡🟡|
 |Linux       |🟡🟡🟡🟡🔵|
@@ -48,21 +48,22 @@ Early-stage branch of multinational company focused on drone testing and develop
 |HTML5       |🟡🟡🔵🔵🔵|
 |Docker      |🟡🟡🔵🔵🔵|
 
-|Mechanic Design|------------|
+|Mechanic Design|            |
 |---------------|-----------:|
 |Inventor       |🟡🟡🟡🟡🟡|
 |Inventor CFD   |🟡🟡🟡🔵🔵|
 |Autodesk CAM   |🟡🟡🔵🔵🔵|
 |AutoCAD        |🟡🟡🔵🔵🔵|
 
-|Electronics and Control|---|
+|Electronics and Control|   |
 |---------------|----------:|
 |Arduino       |🟡🟡🟡🟡🟡|
 |Ardupilot     |🟡🟡🟡🟡🔵|
 |Matlab        |🟡🟡🟡🔵🔵|
 |Proteus       |🟡🟡🟡🔵🔵|
 |MPLAB X       |🟡🟡🔵🔵🔵|
-<br><br>
+
+<br>
 
 ## 🥏 Pursuits
 
