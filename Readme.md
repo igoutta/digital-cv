@@ -2,7 +2,7 @@
 
 *Mechatronics Engineer based in Guayaquil 🇪🇨* <br>
 
-[Email](mailto:igoutta.08@gmail.com) / [Website](https://igoutta.github.io/ga-cv/) / [LinkedIn](https://www.linkedin.com/in/igoutta/) / [GitHub](https://github.com/igoutta/)
+[Email](mailto:igoutta.08@gmail.com) / [Website](https://igoutta.github.io/igoutta/) / [LinkedIn](https://www.linkedin.com/in/igoutta/) / [GitHub](https://github.com/igoutta/)
 <!-- This content will not appear in the rendered Markdown -->
 
 ## ✈️ Engineering Experience
