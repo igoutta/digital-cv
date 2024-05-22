@@ -2,7 +2,11 @@
 
 *Mechatronics Engineer based in Guayaquil 🇪🇨* <br>
 
-[Email](mailto:igoutta@protonmail.com) / [Website](https://igoutta.github.io/igoutta/) / [LinkedIn](https://www.linkedin.com/in/igoutta/) / [GitHub](https://github.com/igoutta/)
+![Email](https://img.shields.io/badge/EMAIL-white?style=for-the-badge&logo=protonmail&link=mailto%3Aigoutta%40protonmail.com) 
+![Website](https://img.shields.io/badge/WEB-blue?style=for-the-badge&logo=githubpages&link=https%3A%2F%2Figoutta.github.io%2Figoutta%2F) 
+![LinkedIn](https://img.shields.io/badge/LINKEDIN-002c4f?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Figoutta%2F) 
+![Github](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Figoutta%2F)
+
 <!-- This content will not appear in the rendered Markdown -->
 
 ## ✈️ Experience
@@ -10,7 +14,11 @@
 **R&D Engineer** @ [ROBIOTEC](https://robiotec.ec/) *(Apr 2024 - Present)* <br>
 Company focused on drone and software development.
 
--
+- Control Programming and corrections over page design.
+- Design and developmetn of hexacopter UAV for water sampling. Communication with flight controller via MAVLink protocol, as well as the development and reading of equipment in data under Python. 
+- ***Software Technologies used:*** Python, Arduino C, MAVLink, Linux Enviroment, Shell.
+- ***Enginnering Technologies used:*** Ardupilot, .
+- ***Hardware Technologies used:*** Raspberry Pi 4 board, Arduino Uno board, flight controllers, LiDAR, peristaltic pumps.
 <br><br>
 
 **Mechatronics Lab Assistant** @ [ROBIOTEC](https://robiotec.ec/) *(Apr 2023 - March 2024)* <br>
