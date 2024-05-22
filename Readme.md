@@ -2,14 +2,14 @@
 
 *Mechatronics Engineer based in Guayaquil 🇪🇨* <br>
 
-![Email](https://img.shields.io/badge/EMAIL-white?style=for-the-badge&logo=protonmail&link=mailto%3Aigoutta%40protonmail.com) 
-![Website](https://img.shields.io/badge/WEB-blue?style=for-the-badge&logo=githubpages&link=https%3A%2F%2Figoutta.github.io%2Figoutta%2F) 
-![LinkedIn](https://img.shields.io/badge/LINKEDIN-002c4f?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Figoutta%2F) 
-![Github](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Figoutta%2F)
+[![E-mail](https://img.shields.io/badge/E--mail-white?style=for-the-badge&logo=protonmail)](mailto:igoutta@protonmail.com) 
+[![Website](https://img.shields.io/badge/CV-turquoise?style=for-the-badge&logo=githubpages&logoSize=auto)](https://igoutta.github.io/igoutta/) 
+[![Linkedin](https://img.shields.io/badge/Linked--in-002c4f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/igoutta/) 
+[![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)](https://github.com/igoutta/)
 
 <!-- This content will not appear in the rendered Markdown -->
 
-## ✈️ Experience
+## Experience
 
 **R&D Engineer** @ [ROBIOTEC](https://robiotec.ec/) *(Apr 2024 - Present)* <br>
 Company focused on drone and software development.
@@ -48,7 +48,7 @@ Early-stage branch of multinational company focused on drone testing and develop
 - ***Hardware Technologies used:*** DC three-phase brushless motors, ESC, Arduino.
 <br><br>
 
-## 🧮 Skills
+## Professional Skills
 
 |Software      |            |
 |--------------|-----------:|
@@ -79,7 +79,7 @@ Early-stage branch of multinational company focused on drone testing and develop
 
 <br>
 
-## 🥏 Pursuits
+## Personal Pursuits
 
 - 🏊 Swimming 
 - 📑 Learning Skills
@@ -89,19 +89,19 @@ Early-stage branch of multinational company focused on drone testing and develop
 - 📖 Reading
 <br><br>
 
-## 💬 Languages
+## Languages
 
-🇪🇨 **Spanish**: Native <br>
+🇪🇸 **Spanish**: Native <br>
 🇺🇸 **English**: B2
 <br><br>
 
-## 🏫 Education
+## Education
 
-**Engineering Degree** on Mechatronics<br>
-[ESPOL](https://www.espol.edu.ec/es/) - Guayaquil, Ecuador *(Apr 2017 - Sep 2023)* <br>
+🧑‍💻 **Engineering Degree** on Mechatronics<br>
+[ESPOL](https://www.espol.edu.ec/) - Guayaquil, Ecuador *(Apr 2017 - Sep 2023)* <br>
 <br><br>
 
-## 🧑‍💻 Referrals
+## Referrals
 
 #### Carlos Zúñiga R.
 
