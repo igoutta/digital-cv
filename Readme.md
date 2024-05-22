@@ -81,12 +81,12 @@ Early-stage branch of multinational company focused on drone testing and develop
 
 ## 🥏 Pursuits
 
-- Swimming 🏊
-- Learning Skills 📑
-- Cooking 🧑‍🍳
-- Mindfulness 🧘
-- Games 🕹️
-- Reading 📖
+- 🏊 Swimming 
+- 📑 Learning Skills
+- 🍳 Cooking
+- 🧘 Mindfulness
+- 🎮 Games
+- 📖 Reading
 <br><br>
 
 ## 💬 Languages
